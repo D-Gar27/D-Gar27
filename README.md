@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
-</div>
-
 <h1>
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -9,8 +5,10 @@
 
 <h2>I'm Htet Win Khant. A web developer from Myanmar (Burma).</h2>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/htet-win-khant-408568229"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
- <img src="https://komarev.com/ghpvc/?username=D-Gar27&style=flat-square&color=blue" alt=""/>
+  <a href="https://www.linkedin.com/in/htet-win-khant-408568229"><img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon" width="30"></a>
+  <a href="https://www.facebook.com/Daddy.hwk69/"><img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Icon" width="30"></a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=D-Gar27&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
