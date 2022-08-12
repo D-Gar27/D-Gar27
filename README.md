@@ -10,6 +10,7 @@
 <h2>I'm Htet Win Khant. A web developer from Myanmar (Burma).</h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/htet-win-khant-408568229"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.facebook.com/Daddy.hwk69"><img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Icon"></a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=D-Gar27&style=flat-square&color=blue" alt=""/>
 
