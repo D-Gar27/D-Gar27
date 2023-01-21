@@ -23,5 +23,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=D-Gar27&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Gar27&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
