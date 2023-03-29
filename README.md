@@ -2,7 +2,10 @@
   Hello There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2>My name is Htet Win Khant. I'm from a small town called Hmawbi in Yangon, Myanmar(Burma). I'm a Web Developer but I love doing Frontend stuff more.</h2>
+<h2>Greetings, fellow coders</h2>
+<h2>I'm a web developer with a passion for all things frontend. I love to create beautiful, functional and user-friendly websites that bring joy to the eyes and ease to the fingertips. Whether it's tweaking some CSS to perfection or diving into the latest JavaScript framework, I'm always up for a good coding challenge.</h2>
+<h2>I'm always happy to connect with fellow developers and learn from each other's experiences.</h2>
+<h2>Cheers to the frontend, and may the bugs be ever in our favor!</h2>
 
 ## 🌐 Socials:
 
