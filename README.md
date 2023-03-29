@@ -1,8 +1,8 @@
 <h1>
-  Hello There
+  Greetings, fellow coders
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2>Greetings, fellow coders<br/>I'm a web developer with a passion for all things frontend. I love to create beautiful, functional and user-friendly websites that bring joy to the eyes and ease to the fingertips. Whether it's tweaking some CSS to perfection or diving into the latest JavaScript framework, I'm always up for a good coding challenge<br/>I'm always happy to connect with fellow developers and learn from each other's experiences<br/>Cheers to the frontend, and may the bugs be ever in our favor!</h2>
+<h2>I'm a web developer with a passion for all things frontend. I love to create beautiful, functional and user-friendly websites that bring joy to the eyes and ease to the fingertips. Whether it's tweaking some CSS to perfection or diving into the latest JavaScript framework, I'm always up for a good coding challenge<br/>I'm always happy to connect with fellow developers and learn from each other's experiences<br/>Cheers to the frontend, and may the bugs be ever in our favor!</h2>
 
 ## 🌐 Socials:
 
